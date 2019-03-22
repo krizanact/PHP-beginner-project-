@@ -1,9 +1,9 @@
-##Introduction
+## Introduction
 
 This is my first real project(student project) and is worked with mysql (outdated) extension.
 Project code isn't  the cleanest but it contains pretty much actions and full functionallity(CRUD).
 
-##Theme
+## Theme
 
 Project has been worked in HTML / CSS and functional programming in PHP + mysql. Theme of this project
 is local library where users can do registration and depending on their access level they can only read or if higher level
