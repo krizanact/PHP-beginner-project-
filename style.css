@@ -1,0 +1,177 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+    font-size: .8em;
+	background: none;
+	margin: 0 auto;
+	background: #fff;
+}
+.sample {
+	border: 0px solid #ddd;
+}
+
+.sample td {
+	border: 1px solid #ddd;
+}
+
+.tbl_naslov {
+	font-weight: bold;
+	background: #ddd;
+}
+
+#head-container
+{
+	color: #000;
+	background: #ccc;
+}
+
+#header
+{
+	margin: 0 auto;
+	width: 860px;
+	padding: 20px;
+	background: #ddd;
+}
+
+#header h1 { margin: 0; }
+
+#navigation-container
+{
+	float: left;
+	width: 100%;
+	color: #000;
+	background: #333;
+
+}
+
+#navigation
+{
+	margin: 0 auto;
+	width: 900px;
+	
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #383; }
+
+#content-container
+{
+	float: left;
+	width: 100%;
+	color: #000;
+	background: #eee;
+
+}
+
+#content-container2
+{
+	margin: 0 auto;
+	width: 900px;
+}
+
+#content-container3
+{
+	float: left;
+	width: 900px;
+	background: #FFF url(two-fixed-background.gif) repeat-y 100% 0;
+}
+
+#content
+{
+	clear: left;
+	float: left;
+	width: 560px;
+	padding: 20px 0;
+	margin: 0 0 0 30px;
+	display: inline;
+}
+
+#content h2 { margin: 0; }
+
+#aside
+{
+	float: right;
+	width: 240px;
+	padding: 20px;
+	margin: 10px 20px 0 0;
+	display: inline;
+	background: #F6F9FB;
+	border: 1px solid #E1E1E1
+}
+
+#aside h3 { margin: 0; padding:10px; background: gold;}
+.aside_left{float:left;}
+.aside_right{float:right;}
+
+fieldset{
+	border: 1px solid #ddd;
+}
+
+.information-box, .confirmation-box, .error-box, .warning-box {
+	padding: 0.833em 0.833em 0.833em 3em; /* 10/12 36/12 */
+	margin-bottom: 0.833em; /* 20/12 */
+}
+
+.information-box {
+	background: #e5f5f9;
+	border: 1px solid #cae0e5;
+	color: #5a9bab;
+}
+
+.confirmation-box {
+	background: #e7fae6;
+	border: 1px solid #b7cbb6;
+	color: #52964f;
+}
+
+.button {
+	padding: 0.833em; /* 10/12 */
+	
+	display: inline-block;
+	text-decoration: none;
+	background-repeat: no-repeat;
+}
+
+#footer-container
+{
+	clear: left;
+	color: #fff;
+	background: #000;
+}
+
+#footer
+{
+	margin: 0 auto;
+	width: 900px;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+}
+
+#userinfo
+{
+
+	text-align: left;
+	padding: 20px;
+	height: 1%;
+}
