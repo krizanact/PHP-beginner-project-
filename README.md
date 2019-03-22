@@ -1,7 +1,7 @@
 ## Introduction
 
 This is my first real project(student project) and is worked with mysql (outdated) extension.
-Project code isn't  the cleanest but it contains pretty much actions and full functionallity(CRUD).
+Project code isn't  really clear but it contains pretty much actions and full functionallity(CRUD). 
 
 ## Theme
 
